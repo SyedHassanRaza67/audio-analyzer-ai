@@ -36,12 +36,49 @@ This project is built with:
 
 ## Project Features
 
-- Audio file upload and analysis
-- AI-powered transcription and insights
-- Call records management with filtering
-- Live sync capabilities
-- Responsive design
-- Dark mode support
+- **Audio Upload & Analysis** - Upload audio files and get AI-powered analysis
+- **Automatic Transcription** - Converts speech to text with intelligent processing
+- **Call Records Management** - Comprehensive table view with filtering and search
+- **Vici Integration** - Syncs call data from Vici CRM system
+- **Live Data Synchronization** - Real-time updates and live status indicators
+- **Campaign Filtering** - Filter and organize calls by campaigns
+- **Detailed Call Analytics** - View call details with transcription and metadata
+- **Responsive Design** - Works seamlessly on desktop and mobile devices
+- **Dark Mode Support** - Comfortable viewing in any lighting condition
+- **Authentication** - Secure user authentication with login/registration
+- **Admin Dashboard** - Statistics and overview of all call records
+
+## API Integrations
+
+- **Supabase** - Backend database and real-time data synchronization
+- **Vici CRM** - Integration for syncing call records and campaign data
+- **Audio Processing** - Handles audio file uploads and processing
+
+## Key Technologies
+
+### Frontend Libraries
+- **React 18** - Modern UI framework
+- **React Router** - Client-side routing
+- **React Hook Form** - Efficient form management
+- **Zod** - TypeScript-first schema validation
+
+### UI & Styling
+- **shadcn/ui** - High-quality React components
+- **Radix UI** - Unstyled, accessible component library
+- **Tailwind CSS** - Utility-first CSS framework
+- **Framer Motion** - Smooth animations and transitions
+- **Lucide React** - Modern icon library
+
+### Data Management & Queries
+- **TanStack Query** - Powerful data fetching and caching
+- **Supabase JS SDK** - Backend client library
+- **Recharts** - Composable charting library
+
+### Development Tools
+- **Vite** - Lightning-fast build tool
+- **TypeScript** - Type-safe development
+- **ESLint** - Code quality and consistency
+
 ## Screenshots
 
 ![Project Screenshot 1](./docs/screenshots/1.png)
