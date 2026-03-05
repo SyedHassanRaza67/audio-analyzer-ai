@@ -81,6 +81,7 @@ This project is built with:
 
 ## Screenshots
 
+![Project Screenshot 0](./docs/screenshots/0.png)
 ![Project Screenshot 1](./docs/screenshots/1.png)
 ![Project Screenshot 2](./docs/screenshots/2.png)
 ![Project Screenshot 3](./docs/screenshots/3.png)
